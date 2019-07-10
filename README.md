@@ -1,9 +1,17 @@
 6qd/fontawesome-xd
 ---
 
+![ogp](https://user-images.githubusercontent.com/14285777/60989272-7a080c80-a380-11e9-8c5d-12c36ace52c7.png)
+
 Font Awesome Free Assets for Adobe XD
 
 ## Sample
+
+![](https://user-images.githubusercontent.com/14285777/60989414-eedb4680-a380-11e9-9e4d-33562decea8f.png)
+
+brand | regular | solid
+--- | --- | ---
+![](https://github.com/6qd/fontawesome-xd/blob/master/export/svg_brand.png?raw=true) | ![](https://github.com/6qd/fontawesome-xd/blob/master/export/svg_regular.png?raw=true) | ![](https://github.com/6qd/fontawesome-xd/blob/master/export/svg_solid.png?raw=true)
 
 ## Features
 
@@ -13,7 +21,7 @@ Font Awesome Free Assets for Adobe XD
 ## Getting Started
 
 - Install [Adobe XD](https://www.adobe.com/products/xd.html).
-- If you need, download the desktop fonts from [here](https://fontawesome.com/how-to-use/on-the-desktop/setup/getting-started).
+- If you need, download the Font Awesome Free Desktop Fonts from [here](https://fontawesome.com/how-to-use/on-the-desktop/setup/getting-started).
 - Search icons in Layer Panel. And dragging a object from there, or copy layer name and use desktop font.
 
 ## Licence
