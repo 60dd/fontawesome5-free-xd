@@ -22,6 +22,7 @@ brand | regular | solid
 
 - Install [Adobe XD](https://www.adobe.com/products/xd.html).
 - If you need, download the Font Awesome Free Desktop Fonts from [here](https://fontawesome.com/how-to-use/on-the-desktop/setup/getting-started).
+- Download XD file from [here](https://github.com/6qd/fontawesome-xd/releases/latest), and open it!
 - Search icons in Layer Panel. And dragging a object from there, or copy layer name and use desktop font.
 
 ## Licence
